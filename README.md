@@ -4,6 +4,10 @@ Welcome to my GitHub!
 I'm a Machine Learning Engineer based in New York, NY, with over 11 years of experience building robust AI and data-driven systems that power products at scale. I thrive on delivering high-impact solutions, mentoring teams, and contributing to open source.
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetsl&theme=github_dark_dimmed)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=puneetsl&show_icons=true&theme=github_dark_dimmed&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage )
+
+---
 
 ## 🚀 About Me
 
