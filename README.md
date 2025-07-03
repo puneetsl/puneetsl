@@ -61,7 +61,7 @@ I'm a Machine Learning Engineer based in New York, NY, with over 11 years of exp
 
 ## 📝 Publications
 
-- [Google Scholar](https://scholar.google.com/citations?user=puneetsl)  
+- [Google Scholar](https://scholar.google.com/citations?user=NrYKcaMAAAAJ)
   - “Inferring Latent Attributes of an Indian Twitter user…” (ACM Hypertext 2015)
   - “Inferring gender of a Twitter user…” (CORR 2014)
   - “Architecture for Automated Tagging and Clustering of Song Files…” (IJCSI 2010)
